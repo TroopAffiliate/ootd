@@ -37,6 +37,7 @@ wp-content/plugins/hello.php
 /*
 !.gitignore
 !wp-content/
+!ootd.php
 
 # Ignore everything in the "wp-content" directory, except the "plugins"
 # and "themes" directories.
